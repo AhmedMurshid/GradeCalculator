@@ -213,7 +213,7 @@ kv = ('''
                     Links:\n
                     https://github.com/Ahmedthebossman \n
                     -\n
-                    https://www.linkedin.com/in/dev-tech/"""
+                    hwww.linkedin.com/in/ahmed001a"""
     
             Button:
                 size_hint: .1,.1
