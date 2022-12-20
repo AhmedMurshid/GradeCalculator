@@ -69,7 +69,6 @@ kv = ('''
             pos: self.pos
             size: self.size
             source: 'img/words.jpg'
-    grade: g1,g2,g3,g4,g5,g6,g7,g8
     weight: w1,w2,w3,w4,w5,w6,w7,w8
     GridLayout:
         rows: 2
